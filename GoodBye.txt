@@ -1,2 +1,2 @@
-print("GoodBye!")
-print("GoodBye my Lova GoodBye")
+print("GoodBye!");
+print("GoodBye my Lova GoodBye");
