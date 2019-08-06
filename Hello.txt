@@ -1,3 +1,6 @@
-print("Hello World!?;");
-print("Is there anybody out there?;");
-print("Anybody listening to me?;");
+print("Hello World!?");
+print("Is there anybody out there?");
+print("Anybody listening to me?");
+print("My best friend gave me;");
+print("The best advice;");
+print("00000;")
